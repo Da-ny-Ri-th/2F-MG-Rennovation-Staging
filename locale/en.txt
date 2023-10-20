@@ -12,11 +12,11 @@ LinkBehaviour_441BE236_4B49_52F9_41D1_30A5A248EF5A.source = https://www.linkedin
 ### Floorplan
 
 ### Image
-imlevel_568A5ECD_4B5B_73AB_419D_4C114EDBAAF8.url = media/map_516A0E7C_4639_E8B2_41CC_9D5E1919C180_en_0.png
-imlevel_568A7ECD_4B5B_73AB_41C4_B124BA5E8BCC.url = media/map_516A0E7C_4639_E8B2_41CC_9D5E1919C180_en_1.png
-imlevel_568A6ECD_4B5B_73AB_4191_6CEC9922281D.url = media/map_516A0E7C_4639_E8B2_41CC_9D5E1919C180_en_2.png
-imlevel_568A9ECD_4B5B_73AB_41C3_4E62FBAA5319.url = media/map_516A0E7C_4639_E8B2_41CC_9D5E1919C180_en_3.png
-imlevel_568ABECD_4B5B_73AB_41BF_07E639C7A7FD.url = media/map_516A0E7C_4639_E8B2_41CC_9D5E1919C180_en_4.png
+imlevel_6D54718A_4B77_71A1_41A5_E03A6B8CF5F4.url = media/map_69FB3F13_4B48_D2BC_41B3_DE12FA4AAB3E_en_0.png
+imlevel_6D54618B_4B77_71A7_41CD_AE334F2BDA6F.url = media/map_69FB3F13_4B48_D2BC_41B3_DE12FA4AAB3E_en_1.png
+imlevel_6D55918B_4B77_71A7_41CB_64130A03AF5E.url = media/map_69FB3F13_4B48_D2BC_41B3_DE12FA4AAB3E_en_2.png
+imlevel_6D55818B_4B77_71A7_41C0_FD5A439B27F6.url = media/map_69FB3F13_4B48_D2BC_41B3_DE12FA4AAB3E_en_3.png
+imlevel_6D55B18B_4B77_71A7_41D0_2A4741C6FB6F.url = media/map_69FB3F13_4B48_D2BC_41B3_DE12FA4AAB3E_en_4.png
 
 ### Title
 panorama_46EAB9B5_4B2A_1A05_41C9_04ECF2300AF7.label = App Office 1
@@ -31,7 +31,7 @@ panorama_4644180F_4B2A_3A06_41C2_467E1515CE52.label = BIM Working Space
 panorama_1F0C1790_4669_E7A0_41D1_73F7BBCE0CF4.label = Entrance
 panorama_489E7C32_4638_2878_41BA_969CBDCA3315.label = Entrance
 panorama_4642DF8C_4B2A_360B_41BD_5906A59D0B2E.label = Entrance
-map_516A0E7C_4639_E8B2_41CC_9D5E1919C180.label = MG_Floor Plan
+map_69FB3F13_4B48_D2BC_41B3_DE12FA4AAB3E.label = MG_Floor Plan
 panorama_1F0B07A5_4669_E7E0_41A1_3A816FD314B9.label = STR Working Space 1
 panorama_464536D6_4B2A_1606_41B3_B39B659B1C0C.label = STR Working Space 1
 panorama_4AC53233_4638_1878_41B9_35C5EB38B003.label = STR Working Space 1
@@ -60,7 +60,7 @@ DropDown_5A99FBC3_4217_A6D9_41CA_5BD9F652483C.label = Time
 Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = CMED HEAD OFFICE, 2F MG OFFICE RENNOVATION
 
 ### Multiline Text
-HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV></div>
 
 ### Tab Panel
 TabPanelPage_4CF41024_4209_A14A_41C2_DD703E38951A.label = Construction
